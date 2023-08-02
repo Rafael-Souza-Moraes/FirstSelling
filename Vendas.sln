@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vendas", "Vendas\Vendas.csproj", "{B8291339-EB95-4E42-AC0E-1B130B9B09FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vendas.DAL.Core", "Vendas.DAL.Core\Vendas.DAL.Core.csproj", "{75A86E61-A7AF-4969-80B0-7DC0A5DD8214}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8291339-EB95-4E42-AC0E-1B130B9B09FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8291339-EB95-4E42-AC0E-1B130B9B09FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8291339-EB95-4E42-AC0E-1B130B9B09FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8291339-EB95-4E42-AC0E-1B130B9B09FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75A86E61-A7AF-4969-80B0-7DC0A5DD8214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75A86E61-A7AF-4969-80B0-7DC0A5DD8214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75A86E61-A7AF-4969-80B0-7DC0A5DD8214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75A86E61-A7AF-4969-80B0-7DC0A5DD8214}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44B09F21-662D-4F70-8B0D-B60BC520B801}
+	EndGlobalSection
+EndGlobal
